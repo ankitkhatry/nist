@@ -28,3 +28,5 @@ The footer section provides additional information about the National School of 
 ---
 
 Thank you for visiting the National School of Sciences website repository! We hope you find the information valuable. If you have any questions or feedback, please don't hesitate to reach out.
+
+Made with love by Ankit Dai.
